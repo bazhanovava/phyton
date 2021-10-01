@@ -1,0 +1,6 @@
+a=int(input("часы="))
+b=int(input("минуты"))
+с=int(input("секунды"))
+a=a*60*60
+b=b*60
+print("total sec=a+b+c")
